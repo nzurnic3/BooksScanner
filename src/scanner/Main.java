@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Main program
 public class Main {
     public static List<Book> loadBooks(String fileName){
         ArrayList<Book> books = new ArrayList<>();
