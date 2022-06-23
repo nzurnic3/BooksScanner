@@ -1,6 +1,7 @@
 package scanner;
 
 // Book model class.
+// Nikola
 public class Book {
     private String title;
     private String author;
